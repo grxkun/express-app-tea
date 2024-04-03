@@ -26,10 +26,10 @@ This is a Node.js script for interacting with multiple instances of the web3 lib
 
 ## Usage
 
-To run the multi-web3 script, execute the following command:
+To run the express-app-tea script, execute the following command:
 
 ```bash
-npm run multi-web3
+npm run express-app-tea
 ```
 
 The script will interact with multiple instances of the web3 library, demonstrating its capabilities.
