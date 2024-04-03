@@ -1,6 +1,6 @@
 ---
 
-# multi-web3
+# express-app-tea.js
 
 This is a Node.js script for interacting with multiple instances of the web3 library.
 
@@ -9,13 +9,13 @@ This is a Node.js script for interacting with multiple instances of the web3 lib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/grxkun/multi-web3.git
+   git clone https://github.com/grxkun/express-app-tea.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd multi-web3
+   cd express-app-tea
    ```
 
 3. Install dependencies:
