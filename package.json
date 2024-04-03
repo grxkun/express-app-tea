@@ -1,0 +1,42 @@
+{
+  "name": "multi-web3",
+  "version": "1.1.4",
+  "description": "a simple express app",
+  "main": "multi-web3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grxkun/multi-web3.git"
+  },
+  "keywords": [
+    "express",
+    "application",
+    "utils"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/multi-web3/issues"
+  },
+  "homepage": "https://github.com/grxkun/multi-web3#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "checksc": "^1.1.4",
+    "cheerio": "^1.0.0-rc.12",
+    "espresso-multi": "^1.1.4",
+    "express-app-tea": "^1.1.4",
+    "expresstea": "^1.1.4",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "parser-multi-app": "^1.1.4",
+    "sqlite3": "^5.1.7",
+    "steep-3d": "^1.1.4",
+    "tea-berry": "^1.1.4",
+    "teagram": "^1.1.4",
+    "upstake": "^1.1.4",
+    "web3-cloner": "^1.1.4",
+    "web3-tea-auto": "^1.1.4"
+  }
+}
