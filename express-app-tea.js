@@ -1,4 +1,4 @@
-// multi-web3.js
+// express-app-tea.js
 
 const Web3 = require('web3');
 
